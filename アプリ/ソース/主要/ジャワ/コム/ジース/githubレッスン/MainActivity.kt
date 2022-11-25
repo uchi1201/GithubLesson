@@ -8,7 +8,8 @@ class MainActivity : AppCompatActivity() {
         // testtesttest
         // testtesttest
         //内が編集したコメント
-        super.onCreate(savedInstanceState)
+        //内がさらに編集したコメント
+        スーパー。onCreate ( savedInstanceState )
         setContentView(R.layout.activity_main)
     }
 }
