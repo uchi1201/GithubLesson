@@ -7,6 +7,7 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         // testtesttest
         // testtesttest
+        //内が編集したコメント
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
     }
