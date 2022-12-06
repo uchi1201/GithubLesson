@@ -5,7 +5,7 @@ import android.os.Bundle
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
-        // testtesttesttest
+        // testtesttest
         // testtesttest
         //内が編集したコメント
         //内がさらに編集したコメント
